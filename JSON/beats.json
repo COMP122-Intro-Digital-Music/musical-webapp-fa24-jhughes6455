@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "Kick",
+    "pitch": "A3",
+    "pattern": "1000000010000000"
+  },
+  {
+    "name": "Snare",
+    "pitch": "B3",
+    "pattern": "0000101000001010"
+  },
+  {
+    "name": "Clap",
+    "pitch": "C4",
+    "pattern": "0000000010101000"
+  },
+  {
+    "name": "Shot1",
+    "pitch": "C#4",
+    "pattern": "1000000100000000"
+  },
+  {
+    "name": "Shot2",
+    "pitch": "D#4",
+    "pattern": "0000000010000000"
+  },
+  {
+    "name": "ClosedHat",
+    "pitch": "F4",
+    "pattern": "00001111"
+  },
+  {
+    "name": "OpenHat",
+    "pitch": "F#4",
+    "pattern": "0000000010001000"
+  }
+]
